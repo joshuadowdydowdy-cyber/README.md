@@ -1,0 +1,21 @@
+## Formula
+Simple Interest = (Principal × Rate × Time) / 100
+
+## How to Run
+Open a terminal and type:
+```bash
+bash simple-interest.sh
+
+Example
+
+Enter the Principal:
+1000
+Enter the Rate of interest:
+5
+Enter the Time (in years):
+2
+The Simple Interest is: 100.00
+
+Author
+
+Joshua Dowdy
